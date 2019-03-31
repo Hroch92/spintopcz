@@ -1,0 +1,886 @@
+---
+categories: []
+layout: page
+title: Tutoriály
+created: 1390979644
+---
+Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny.net mají pár základních triků natočených, takže <a href="http://www.youtube.com/playlist?list=PLjsnPtQYJ32-B8_Co25-TANusuCUxjooI">tady</a> jsou.
+
+<div class="youtube-player" data-id="3phzxAdsMCg"></div>
+
+
+
+
+
+<h3><strong>slusny.net</strong>:</h3>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="height:366px; width:448px">
+
+	<tbody>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=3phzxAdsMCg">Základy</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=cSu9bX40Pvc">Whip</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=NdpxJ8OX_Zs">Vana Merry Go Round</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=iPn7kbU_eAM">Under the Leg Boomerang</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=tYa607LjlJs">Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=2rd_-yVMxmg">Spinner + Scoop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=kVZuBN7_2-8">Sky Rocket</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=HcOX57MPah8">Roller Coaster</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=ldEVg87Lags">Merry Go Round</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=gRmMYK8A95w">Hackey Top</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=jdsvY5Dgy44">Gyroscopic Flop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=s2tjlDwFEeM">Crazy 8's</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=H7SNPMgk9E8">Corkscrew</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=bwh5EUU5-9A">Bondage</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+
+
+<p></p>
+
+
+
+<p>Další triky najdete na <a href="https://www.scienceofspin.com/spin-top-tips---videos.html">Spintastics</a> stránkách:</p>
+
+
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+
+	<tbody>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=UsAlMtzVmvI">Spinner + Target</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=BRAB1Y7fwBc">Sky Rocket</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=m_HGeGQsG8c">Boomerang</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=n_MckJIoBQo">Wirewalker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=MVTlbNuoGD0">Merry Go Round + Crazy 8's</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=XDs1jW-h4RA">Arm Walker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=0UEPzESHr_8">Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=ehjjrIJGufU">Wirewalker 2</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=f0_I9LopEn0">Rock the Baby</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=GPlRWtEMYRk">Through the Subway (Dive Bomber)</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=BzUqEeqArng">Hop the Fence</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=uTJbvcXevvw">Corkscrew with Gyroscopic Flop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=gP1ZoCZjor0">Roller Coaster to Hand + to String</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=Npuuw1Lbaoc">Around the World</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=9aID6IfXpQg">Drumbeat</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=x-s0EApPkdI">Lasso from Boomerang</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=zz4RiET2Ue4">One Hand Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=zBGaNx8EeKE">Whip from Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=9CfPZ8-Ux_Q">Trapeze with Somersault</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=zP6q4J-V5gM">Behind the Back Trapeze into Lasso</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=pbXOomXJ8Vk">Upside Down Crazy 8's</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=IW5z-Zi-OkA">Boomerang to Behind Catch</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=VZmczR-a2vk">Mach 5</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=kjVWAK42pxM">Bermuda Triangle</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=9aID6IfXpQg">Horizontal Whip</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=eTiOQBjHZCg">Gyroscopic Flop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=8JFFuBfj_Pc">One Hand Lasso</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=GQPuwTc-6tQ">Joker Choker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=sdxySUiKCmw">Wirewalker to Crazy 8's</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=nv_FLUEjN1E">Bondage</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=77n_DDqK7VQ">Sun</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=7qay6MHyXCE">Multiple One Hand Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=7qay6MHyXCE">Walking Roller Coaster</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=-K4JY_FUFF4">Roller Coaster Behind the Back</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=x6lZ2GrHLa0">Eli Hops</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=_k1OqhQkfbE">Atom Smasher</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=sOS-8pknUIA">Escalator</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=MsqG22V7bm4">Hand Spiral</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=oK5sO-0rWmY">Sling</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=Y8Jnfa-Gxyc">Side Throw Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=E3CqJ6Zbewk">Planet Hop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="https://www.youtube.com/watch?v=WyryMgZ0ZCs">Upside Down Merry Go Round</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+
+
+<p>Několik triků zpracoval i Jorge Alcoz na jeho <a href="http://ta0.com/tricks/tricks.html">webu</a>, některé triky jsou i s podrobným popisem a historií:</p>
+
+
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+
+	<tbody>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S01_spinner.swf">Spinner</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://http://ta0.com/tricks/sport-division/S02_bigscoop.swf">Big Scoop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S03_frisbee.swf">Bull's-eye to Frisbee</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S04_skyrocket.swf">Sky Rocket</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S05_boomerang.swf">Boomerang</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S06_boomerang-under-leg.swf">Boomerang Under the Leg</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S07_mgr.swf">Merry Go Round</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://http://ta0.com/tricks/sport-division/S08_hacky.swf">Hackey Top</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S09_armwalker.swf">Arm Walker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S10_crazy8.swf">Crazy 8's</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S11_trapeze.swf">Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S12_2inch.swf">Bull's-eye to 2 inch target</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S13_BBboomerang.swf">Behind the Back Boomerang</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S14_wirewalker.swf">Wirewalker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S15_rockbaby.swf">Rock the Baby</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S16_hopfence.swf">Hop the Fence</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://http://ta0.com/tricks/sport-division/S17_gyro.swf">Gyroscopic Flop</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S18_mach5.swf">Mach 5</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S19_aroundworld.swf">Around the World</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S20_divebomber.swf">Dive Bomber</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/corkscrew.html">Corkscrew</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/cablecar.html">Cable Car</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/rollercoaster.html">Roller Coaster to Hand + to String</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S25_timewarp.swf">Time Warp</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S26_bermuda.swf">Bermuda Triangle</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S27_whip.swf">Whip Catch</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S28_lasso.swf">Lasso Catch</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/drumbeat.html">Drumbeat</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S31_udmgr.swf">Upside Down Merry Go Round</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://http://ta0.com/tricks/sport-division/S32_barrelrolls.swf">Barrel Rolls</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S33_bbtrapezelasso.swf">Behind the Back Trapeze to Lasso</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S34_1handtrapeze.swf">One Hand Trapeze</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S35_1handlasso.swf">One Hand Lasso</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/joker_choker.html">Joker Choker</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S37_bb1handlasso.swf">Behind the Back One Hand Lasso</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S38_magneticwire.swf">Magnetic Wire Orbits (Satellites)</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S39_pirouette.swf">Pirouette</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sport-division/S40_bottlecap.swf">Bull's-eye to bottle cap target</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/reversible.html">Reversible Corkscrew</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/bondage.html">Bondage</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/staircase.html">Staircase to Heaven</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/ud_corkscrew.html">Upside Down Corkscrew</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/sewing_machine.html">Sewing Machine</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/drumroll.html">Drum Roll</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+		<tr>
+
+			<td><a href="http://ta0.com/tricks/plate_regen.html">Plate Regens</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
+
+
+Mexičtí Trompos Cometa také nelenili a vytvořili obstojné množství <a href="http://www.tromposcometa.mx/trucos.php">tutoriálů</a>.
+
+
+
+Mnoho užitečných tutoriálů je ukázáno i na <a href="http://pulpowsky.com/foro/index.php?board=23.0">Foro del trompo</a>.
+
+
+
+Další tutoriály má na youtube <a href="https://www.youtube.com/user/peonzasenergia/videos">Energia</a>, natáčel je Ondra Kroutil a učinkují v nich Vašek Kroutil, Honza Kloubec, Dita Dudová a Dan Konečný.
+
+
+
+Aby toho nebylo málo, povedené tutoriály mají i Trompos Space na <a href="https://vimeo.com/tromposspace/videos/sort:alphabetical/format:detail">vimeu</a>.
+
+Dalším zdrojem tutoriálů je <a href="https://www.youtube.com/channel/UCepJUkYCsMwBXCliIfTfBOw/videos">Relampago Spintops</a> Joseho Madrigala.
+
+
+
