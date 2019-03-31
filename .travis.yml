@@ -1,8 +1,9 @@
 language: ruby
 rvm:
   - 2.4.1
-  
-bundle exec jekyll build
+
+script:
+  - bundle exec jekyll build  
 
 
 after_success:
