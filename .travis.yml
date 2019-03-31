@@ -2,6 +2,8 @@ language: ruby
 rvm:
   - 2.4.1
   
-language: node_js
+bundle exec jekyll build
+
+
 after_success:
   - cd ./_site && find . -type f -exec curl -u $FTP_USER:$FTP_PASS --ftp-create-dirs -T {} ftp://$FTP_HOST/www/subdom/jekyll/{} \;
