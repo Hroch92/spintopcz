@@ -16,3 +16,5 @@ Mimo tutoriálů přidal Jose i jedno trikové video a jsou tam super triky:
 
 <div class="youtube-player" data-id="VHnvCTFpHoc"></div>
 
+Test 12:51
+
