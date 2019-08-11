@@ -20,7 +20,7 @@ Další soutěží byl sports ladder - seznam triků. Výsledky jsou následují
 2. Kevin
 3. Wilson
 
-![sports-ladder-contest] (https://i.ibb.co/DppQ4hx/20190809-121743.jpg)
+![sports-ladder-contest](https://i.ibb.co/DppQ4hx/20190809-121743.jpg)
 
 Nezapomnělo se ani na tradiční battle s neuvěřitelným počtem 36 soutěžících.
 
@@ -28,7 +28,7 @@ Nezapomnělo se ani na tradiční battle s neuvěřitelným počtem 36 soutěž�
 2. Kelvin Carmona (Mexico)
 3. Dennis Shatter (USA)
 
-![battle-contest] (https://i.ibb.co/C8GWC66/20190809-222918.jpg)
+![battle-contest](https://i.ibb.co/C8GWC66/20190809-222918.jpg)
 
 V královské kategorii 3 minutových freestylů soutěžilo 10 soutěžících a výsledky jsou následující:
 1. Jose Madrigal (USA)
@@ -42,4 +42,4 @@ V královské kategorii 3 minutových freestylů soutěžilo 10 soutěžících 
 9. Farid Bermudez (Colombia)
 10. Mark Leithead (Canada)
 
-![freestyles-wyyc2019] (https://i.ibb.co/PDQNt4L/20190810-192742.jpg)
+![freestyles-wyyc2019](https://i.ibb.co/PDQNt4L/20190810-192742.jpg)
