@@ -11,5 +11,5 @@ pipeline:
     hostname: 57562.w62.wedos.net:21
     secrets: [ ftp_username, ftp_password ]
     secure: true
-    dest_dir: /www/subdom/jekyll/
+    dest_dir: /www/
     src_dir: /_site/
