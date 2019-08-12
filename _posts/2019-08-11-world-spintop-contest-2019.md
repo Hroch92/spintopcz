@@ -18,7 +18,7 @@ Další soutěží byl sports ladder - seznam triků. Výsledky jsou následují
 
 1. Beau Besancon
 2. Kevin
-3. Wilson
+3. Wilson Gomez
 
 ![sports-ladder-contest](https://i.ibb.co/DppQ4hx/20190809-121743.jpg)
 
@@ -34,7 +34,7 @@ V královské kategorii 3 minutových freestylů soutěžilo 10 soutěžících 
 1. Jose Madrigal (USA)
 2. Eli Hickerson (USA)
 3. Takahito Hasegawa (Japan)
-4. Marco Palma (Mexico(sdílené s Tomem)
+4. Marco Palma (Mexico) (sdílené s Tomem)
 4. Tom Kunkel (USA) (sdílené s Marcem)
 6. James Palma (Mexico)
 7. Valerie Oliver (USA)
