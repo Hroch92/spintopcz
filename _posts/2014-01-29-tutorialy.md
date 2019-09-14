@@ -3,6 +3,7 @@ categories: []
 layout: page
 title: Tutoriály
 created: 1390979644
+published: true
 ---
 Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny.net mají pár základních triků natočených, takže <a href="http://www.youtube.com/playlist?list=PLjsnPtQYJ32-B8_Co25-TANusuCUxjooI">tady</a> jsou.
 
@@ -492,7 +493,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 
 
-<p>Několik triků zpracoval i Jorge Alcoz na jeho <a href="http://ta0.com/tricks/tricks.html">webu</a>, některé triky jsou i s podrobným popisem a historií:</p>
+<p>Několik triků zpracoval i Jorge Alcoz na jeho <a href="//ta0.com/tricks/tricks.html">webu</a>, některé triky jsou i s podrobným popisem a historií:</p>
 
 
 
@@ -502,7 +503,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S01_spinner.swf">Spinner</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S01_spinner.swf">Spinner</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -510,7 +511,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://http://ta0.com/tricks/sport-division/S02_bigscoop.swf">Big Scoop</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S02_bigscoop.swf">Big Scoop</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -518,7 +519,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S03_frisbee.swf">Bull's-eye to Frisbee</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S03_frisbee.swf">Bull's-eye to Frisbee</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -526,7 +527,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S04_skyrocket.swf">Sky Rocket</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S04_skyrocket.swf">Sky Rocket</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -534,7 +535,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S05_boomerang.swf">Boomerang</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S05_boomerang.swf">Boomerang</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -542,7 +543,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S06_boomerang-under-leg.swf">Boomerang Under the Leg</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S06_boomerang-under-leg.swf">Boomerang Under the Leg</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -550,7 +551,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S07_mgr.swf">Merry Go Round</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S07_mgr.swf">Merry Go Round</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -558,7 +559,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://http://ta0.com/tricks/sport-division/S08_hacky.swf">Hackey Top</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S08_hacky.swf">Hackey Top</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -566,7 +567,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S09_armwalker.swf">Arm Walker</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S09_armwalker.swf">Arm Walker</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -574,7 +575,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S10_crazy8.swf">Crazy 8's</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S10_crazy8.swf">Crazy 8's</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -582,7 +583,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S11_trapeze.swf">Trapeze</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S11_trapeze.swf">Trapeze</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -590,7 +591,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S12_2inch.swf">Bull's-eye to 2 inch target</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S12_2inch.swf">Bull's-eye to 2 inch target</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -598,7 +599,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S13_BBboomerang.swf">Behind the Back Boomerang</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S13_BBboomerang.swf">Behind the Back Boomerang</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -606,7 +607,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S14_wirewalker.swf">Wirewalker</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S14_wirewalker.swf">Wirewalker</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -614,7 +615,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S15_rockbaby.swf">Rock the Baby</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S15_rockbaby.swf">Rock the Baby</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -622,7 +623,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S16_hopfence.swf">Hop the Fence</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S16_hopfence.swf">Hop the Fence</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -630,7 +631,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://http://ta0.com/tricks/sport-division/S17_gyro.swf">Gyroscopic Flop</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S17_gyro.swf">Gyroscopic Flop</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -638,7 +639,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S18_mach5.swf">Mach 5</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S18_mach5.swf">Mach 5</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -646,7 +647,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S19_aroundworld.swf">Around the World</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S19_aroundworld.swf">Around the World</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -654,7 +655,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S20_divebomber.swf">Dive Bomber</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S20_divebomber.swf">Dive Bomber</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -662,7 +663,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/corkscrew.html">Corkscrew</a></td>
+			<td><a href="//ta0.com/tricks/corkscrew.html">Corkscrew</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -670,7 +671,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/cablecar.html">Cable Car</a></td>
+			<td><a href="//ta0.com/tricks/cablecar.html">Cable Car</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -678,7 +679,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/rollercoaster.html">Roller Coaster to Hand + to String</a></td>
+			<td><a href="//ta0.com/tricks/rollercoaster.html">Roller Coaster to Hand + to String</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -686,7 +687,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S25_timewarp.swf">Time Warp</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S25_timewarp.swf">Time Warp</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -694,7 +695,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S26_bermuda.swf">Bermuda Triangle</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S26_bermuda.swf">Bermuda Triangle</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -702,7 +703,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S27_whip.swf">Whip Catch</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S27_whip.swf">Whip Catch</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -710,7 +711,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S28_lasso.swf">Lasso Catch</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S28_lasso.swf">Lasso Catch</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -718,7 +719,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/drumbeat.html">Drumbeat</a></td>
+			<td><a href="//ta0.com/tricks/drumbeat.html">Drumbeat</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -726,7 +727,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S31_udmgr.swf">Upside Down Merry Go Round</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S31_udmgr.swf">Upside Down Merry Go Round</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -734,7 +735,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://http://ta0.com/tricks/sport-division/S32_barrelrolls.swf">Barrel Rolls</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S32_barrelrolls.swf">Barrel Rolls</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -742,7 +743,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S33_bbtrapezelasso.swf">Behind the Back Trapeze to Lasso</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S33_bbtrapezelasso.swf">Behind the Back Trapeze to Lasso</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -750,7 +751,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S34_1handtrapeze.swf">One Hand Trapeze</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S34_1handtrapeze.swf">One Hand Trapeze</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -758,7 +759,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S35_1handlasso.swf">One Hand Lasso</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S35_1handlasso.swf">One Hand Lasso</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -766,7 +767,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/joker_choker.html">Joker Choker</a></td>
+			<td><a href="//ta0.com/tricks/joker_choker.html">Joker Choker</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -774,7 +775,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S37_bb1handlasso.swf">Behind the Back One Hand Lasso</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S37_bb1handlasso.swf">Behind the Back One Hand Lasso</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -782,7 +783,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S38_magneticwire.swf">Magnetic Wire Orbits (Satellites)</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S38_magneticwire.swf">Magnetic Wire Orbits (Satellites)</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -790,7 +791,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S39_pirouette.swf">Pirouette</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S39_pirouette.swf">Pirouette</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -798,7 +799,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sport-division/S40_bottlecap.swf">Bull's-eye to bottle cap target</a></td>
+			<td><a href="//ta0.com/tricks/sport-division/S40_bottlecap.swf">Bull's-eye to bottle cap target</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -806,7 +807,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/reversible.html">Reversible Corkscrew</a></td>
+			<td><a href="//ta0.com/tricks/reversible.html">Reversible Corkscrew</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -814,7 +815,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/bondage.html">Bondage</a></td>
+			<td><a href="//ta0.com/tricks/bondage.html">Bondage</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -822,7 +823,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/staircase.html">Staircase to Heaven</a></td>
+			<td><a href="//ta0.com/tricks/staircase.html">Staircase to Heaven</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -830,7 +831,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/ud_corkscrew.html">Upside Down Corkscrew</a></td>
+			<td><a href="//ta0.com/tricks/ud_corkscrew.html">Upside Down Corkscrew</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -838,7 +839,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/sewing_machine.html">Sewing Machine</a></td>
+			<td><a href="//ta0.com/tricks/sewing_machine.html">Sewing Machine</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -846,7 +847,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/drumroll.html">Drum Roll</a></td>
+			<td><a href="//ta0.com/tricks/drumroll.html">Drum Roll</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -854,7 +855,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 		<tr>
 
-			<td><a href="http://ta0.com/tricks/plate_regen.html">Plate Regens</a></td>
+			<td><a href="//ta0.com/tricks/plate_regen.html">Plate Regens</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -864,9 +865,6 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 </table>
 
-
-
-Mexičtí Trompos Cometa také nelenili a vytvořili obstojné množství <a href="http://www.tromposcometa.mx/trucos.php">tutoriálů</a>.
 
 
 
@@ -881,6 +879,3 @@ Další tutoriály má na youtube <a href="https://www.youtube.com/user/peonzase
 Aby toho nebylo málo, povedené tutoriály mají i Trompos Space na <a href="https://vimeo.com/tromposspace/videos/sort:alphabetical/format:detail">vimeu</a>.
 
 Dalším zdrojem tutoriálů je <a href="https://www.youtube.com/channel/UCepJUkYCsMwBXCliIfTfBOw/videos">Relampago Spintops</a> Joseho Madrigala.
-
-
-
