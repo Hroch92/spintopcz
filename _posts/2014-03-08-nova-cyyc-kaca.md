@@ -3,6 +3,7 @@ categories: []
 layout: post
 title: Nová CYYC káča
 created: 1394303770
+published: true
 ---
 <p>Americká firma Chico Yoyo and Top Company představila jejich novou káču s trochu podivným jménem New Spintop.</p>
 
@@ -12,7 +13,7 @@ created: 1394303770
 
 
 
-<p>Káča má tvar slzy s neobvykle velkým horním otvorem. Asi největší nezvyklostí je tvar hrotu, bohužel nikde není recenze na fixní variantu, tak se těžko odhaduje jak se bude chovat, ale na ložiskovou variantu jsou kladné ohlasy. Zvláště jsou s tímto hrotem jednoduché upside-down triky jako například UD Corkscrew. Ke káči je možné zakoupit i hrot s jednosměrným ložiskem. Tělo je vyrobené z delrinu a hrot z tvrzené ocele, takže je jasné, že káča vydrží opravdu hodně pádů a nemusíte se bát o její rozbití. Pokud už je vám teď jasné, že si chcete tuto žhavou novinku vyzkoušet, tak si ji můžete koupit na <a href="http://chicoyoyocompany.com/store/#!/~/category/id=8553310&amp;offset=0&amp;sort=normal">shopu CYYC</a>. Nakonec pár parametrů:</p>
+<p>Káča má tvar slzy s neobvykle velkým horním otvorem. Asi největší nezvyklostí je tvar hrotu, bohužel nikde není recenze na fixní variantu, tak se těžko odhaduje jak se bude chovat, ale na ložiskovou variantu jsou kladné ohlasy. Zvláště jsou s tímto hrotem jednoduché upside-down triky jako například UD Corkscrew. Ke káči je možné zakoupit i hrot s jednosměrným ložiskem. Tělo je vyrobené z delrinu a hrot z tvrzené ocele, takže je jasné, že káča vydrží opravdu hodně pádů a nemusíte se bát o její rozbití. Nakonec pár parametrů:</p>
 
 
 
@@ -27,4 +28,3 @@ created: 1394303770
 	<li>Ložiska: 2, velikost C</li>
 
 </ul>
-
