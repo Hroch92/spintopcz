@@ -7,7 +7,7 @@ published: true
 ---
 <p>Jorge Alcoz (ta0) založil na itopspin.com fóru <a href="http://www.ta0.com/forum/index.php?topic=1332.0" target="_blank">topic</a> ohledně historie Duncan káč, konkrétně první generace. Tento článek je překladem Jorgeho zápisků v topicu. Napsal hodně poznatků, takže tyto články budou pojaty jako série, první díl naleznete na <a href="//spintop.cz/prvn-generace-duncan-k-1-dl/">této</a> adrese, druhý <a href="//spintop.cz/prvn-generace-duncan-k-2-dl/">zde</a>, na třetí je odkaz <a href="//spintop.cz/prvn-generace-duncan-k-3-dl/">tady</a>&nbsp;a čtvrtý právě čtete.</p>
 
-<p>"Stejný prodejce jako před rokem zveřejnil <a href="http://www.ebay.com/itm/271392414525?&amp;orig_cvip=true">aukci</a> druhé krabice Double Headerů. Někdo ji koupil během pár hodin pomocí buy-it-now (kup teď) funkce, což mě nepřekvapuje (ačkoliv to bylo o skoro 100 dolarů více než předtím). Jako sběratel jsem doufal, že moje je jediná dochovaná krabice. Mohlo by jich být víc."</p>
+<p>"Stejný prodejce jako před rokem zveřejnil aukci druhé krabice Double Headerů. Někdo ji koupil během pár hodin pomocí buy-it-now (kup teď) funkce, což mě nepřekvapuje (ačkoliv to bylo o skoro 100 dolarů více než předtím). Jako sběratel jsem doufal, že moje je jediná dochovaná krabice. Mohlo by jich být víc."</p>
 
 <p>yollector: "Já mám růžovo-zeleného Double Headera, stejného jako máš ty v krabici. (Před lety jsem ho dostal od Dona Duncana Jr.)<br />
 A také máme jednoho v National yoyo top museu.<br />
