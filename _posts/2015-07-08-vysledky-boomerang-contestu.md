@@ -3,8 +3,9 @@ categories: []
 layout: post
 title: Výsledky Boomerang Contestu
 created: 1436385157
+published: true
 ---
-<p>Co je to Boomerang Contest se můžete dočíst v nedávném <a href="http://spintop.cz/news/boomerang-contest">článku</a>. Soutěž byla ukončena 21. června a hlasování probíhalo do 30. června. Nyní se pojďme podívat na výsledky:</p>
+<p>Co je to Boomerang Contest se můžete dočíst v nedávném <a href="//spintop.cz/boomerang-contest/">článku</a>. Soutěž byla ukončena 21. června a hlasování probíhalo do 30. června. Nyní se pojďme podívat na výsledky:</p>
 
 
 
@@ -51,4 +52,3 @@ created: 1436385157
 
 
 <p>&nbsp;</p>
-
