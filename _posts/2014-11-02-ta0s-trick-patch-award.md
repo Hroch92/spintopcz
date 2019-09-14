@@ -3,8 +3,9 @@ categories: []
 layout: post
 title: Ta0's Trick Patch Award
 created: 1414948219
+published: true
 ---
-<p>Jorge Alcoz (ta0) je velký příznivce tzv. patchů neboli krátkých seznamů triků, po jejichž splnění získáte nášivku nebo alespoň ocenění (více <a href="http://spintop.cz/content/patche" target="_blank">zde</a>). Už delší dobu naznačuje, že chystá vlastní patch, který naplní svými vlastními triky, kterých má zajisté dostatek. A před pár dny konečně na <a href="http://www.ta0.com/forum/index.php/topic,3583.0.html" target="_blank">itopspin.com fóru</a>&nbsp;uveřejnil jeho dílo. A co více říct než, že zašel za hranice toho, co jsme zatím mohli vidět. Protože klasický počet 8 triků mu nestačil, tak zvolil možnost rovnou 16 triků a to zajímavým způsobem. Seznam obsahuje 8 triků a ke každému triku ještě jedna alternativa navíc, takže celkem 16.</p>
+<p>Jorge Alcoz (ta0) je velký příznivce tzv. patchů neboli krátkých seznamů triků, po jejichž splnění získáte nášivku nebo alespoň ocenění (více <a href="//spintop.cz/patche/" target="_blank">zde</a>). Už delší dobu naznačuje, že chystá vlastní patch, který naplní svými vlastními triky, kterých má zajisté dostatek. A před pár dny konečně na <a href="http://www.ta0.com/forum/index.php/topic,3583.0.html" target="_blank">itopspin.com fóru</a>&nbsp;uveřejnil jeho dílo. A co více říct než, že zašel za hranice toho, co jsme zatím mohli vidět. Protože klasický počet 8 triků mu nestačil, tak zvolil možnost rovnou 16 triků a to zajímavým způsobem. Seznam obsahuje 8 triků a ke každému triku ještě jedna alternativa navíc, takže celkem 16.</p>
 
 
 
@@ -67,4 +68,3 @@ created: 1414948219
 
 
 <p><div class="youtube-player" data-id="5qnqeUXmxeo"></div></p>
-
