@@ -5,7 +5,7 @@ title: Co je to Tujlub?
 created: 1447600996
 published: true
 ---
-<p>Z tradičních spintop her už jsme psali o <a href="//spintop.cz/co-je-to-gasing/">Gasingu</a> nebo <a href="http://spintop.cz/beigoma">Beigomě</a>. Dnes se podíváme na hru Tujlub, kterou hraje komunita Hmongů a pořádají se v ní turnaje v mnoha státech USA.</p>
+<p>Z tradičních spintop her už jsme psali o <a href="//spintop.cz/co-je-to-gasing/">Gasingu</a> nebo <a href="//spintop.cz/beigoma-pedchdce-beybladu/">Beigomě</a>. Dnes se podíváme na hru Tujlub, kterou hraje komunita Hmongů a pořádají se v ní turnaje v mnoha státech USA.</p>
 
 
 
