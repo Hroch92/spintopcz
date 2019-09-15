@@ -865,6 +865,197 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 </table>
 
+<p>Triky s Japonskou koma káčou lze rozdělit na několik úrovní obtížnosti, které se nazývají Kyu a Dan:</p>
+
+
+
+<table border="0" cellpadding="1" cellspacing="1" style="width:500px">
+
+	<tbody>
+
+		<tr>
+
+			<td>Kyu</td>
+
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=jiHPw6DQsA8">[１級]　空中手のせ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=_2_331CL7I4">[２級] 初詣</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=9-wKTX9hDmU">[３級] メリーゴーランド</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=C-f1nJETNOk">[４級] 日本一周</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=mOJ9eWHDXNc">[５級] どじょうすくい</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=_4SaOyERdJs">[６級] ひもかけ手のせ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=meGxkdikLus">[７級] 線香花火</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=5i4mJhHqoDM">[８級] まといれ（３０センチ）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=EJq-ZAcFtmY">[９級] 犬の散歩</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=rcw7GscdZOk">[10級] こまがまわせる</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>1. Dan</td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=bs1-muepiMA">[初段] 燕返し</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=_QQ42ABxoiQ">[初段] ひばり返し</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=ZqibJKB4rTI">[初段] まと入れ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=PPqBhCKVQUE">[初段] フォークボール</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=7GzqUpUyhjM">[初段] お手玉</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>2. Dan</td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=Jw0sM5juvCo">[２段] 同時２個まわし</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=HCWYhb2IiBE">[２段] リフティング</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=y-fy8hrQU3c">[２段] つなわたり</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=LDMZ42CljGU">[２段] ひものせ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=mDkDCmrDMAg">[２段] スタンダップ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+
+	</tbody>
+
+</table>
+
 
 
 
