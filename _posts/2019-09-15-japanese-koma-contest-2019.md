@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 categories: []
 layout: post
 ---
@@ -16,6 +16,3 @@ V Tokiu se 24. března konal už šestý ročník národního Koma contestu. Zú
 
 
 ![]({{site.baseurl}}/images/japanese-koma-contest-2019/japanese-koma-contest-2019.png)
-
-
-
