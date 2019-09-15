@@ -15,4 +15,7 @@ V Tokiu se 24. března konal už šestý ročník národního Koma contestu. Zú
 * [谷幹太](https://www.youtube.com/watch?v=F8Zl7Mo4d_Y)
 
 
+![]({{site.baseurl}}/images/japanese-koma-contest-2019/japanese-koma-contest-2019.png)
+
+
 
