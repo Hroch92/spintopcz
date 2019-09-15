@@ -882,7 +882,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
     
     <tr>
 
-			<td><a href="//www.youtube.com/watch?v=jiHPw6DQsA8">[１級]　空中手のせ</a></td>
+			<td><a href="//www.youtube.com/watch?v=jiHPw6DQsA8">[１級] 空中手のせ</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
@@ -1049,6 +1049,270 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 			<td><a href="//www.youtube.com/watch?v=mDkDCmrDMAg">[２段] スタンダップ</a></td>
 
 			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>3. Dan</td>
+      
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=_05VWKxOlQI">[３段] ツイスト往復</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=TVulvRv3mSg">[３段] ゆびのせ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=awGHx5g92zE">[３段] こしかけ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=2XjXvJW4ZKI">[３段] つなわたり往復</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=9J2a00nu0ho">[３段] トランポリン（３回）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=aqWwtDZW9SA">[３段] 大車輪</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=B5nylKht7aE">[３段] 初日の出</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>4. Dan</td>
+      
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=cocvt-Zsaw8">[４段] 風車（かざぐるま）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=pQ4RkPqJu-s">[４段] またかけ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=5vd9eWAV-Ao">[４段] 燈籠（とうろう）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=G5MJAzCK1dI">[４段] 竜巻</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=ZIQ7b-dD5KM">[４段] なわとび３回</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=1oUjpfof72w">[４段] へび３周</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=CGRe1oOY0t8">[４段] 渦潮３セット</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>5. Dan</td>
+      
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=IUkH7cFnsU0">[５段] うぐいす</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=P2V_K7bmU7I">[５段] あしかけ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=nzL2uEdm4sw">[５段] みみかけ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=7TktdMa1BVE">[５段] ハヤブサ返し</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=B5w-z8FEuGQ">[５段] 鯉の滝登り</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=CrOC-67laVU">[５段] 地獄車</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=cq5sVSF0kv0">[５段] 燕尾返し（えんびがえし）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=8GiCj4iGLdk">[５段] 空中大車輪</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=2bwNN1Ypo68">[５段] 両手へび（５周以上）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=DcK-2ckGpOY">[５段] むち（３回）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td>6. Dan</td>
+      
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=qZLZVfRvLCo">[６段] 砂時計</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=BPxH_hY_P0M">[６段] かまいたち（５セット）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=MSnX20AxNXA">[６段] 白刃取り</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=UDvL_kaMzGM">[６段] 足抜き（５回）</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=IRVZkIq37Xk">[６段] くさりがま</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
+
+		</tr>
+    
+    <tr>
+
+			<td><a href="//www.youtube.com/watch?v=7hweXVvW7co">[６段] ２個同時空中手のせ</a></td>
+
+			<td><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /><img alt="" src="/images/Tutorialy/obtiznost.png" style="border:0px; height:15px; padding:0px; width:16px" /></td>
 
 		</tr>
 
