@@ -1328,24 +1328,42 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 	<tbody>
 
-		<tr><td>Základy</td></tr>
+		<tr><td><b>Základy</b></td></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=qqor6IXJ8d0">Roztočení</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=MiwlY-C_If0">Roller Coaster</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=1rCKUVoPkX4">Under the leg, Behind the back</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=dRX8S_hg2og">Palm drop</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=1bBaFRMNgVs">Look back</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=1bBaFRMNgVs">Look back</a></td></tr><br>
     
-    <tr><td>Finger tricks</td></tr>
+    <tr><td><b>Finger tricks</b></td></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=gFMSuPLz8ns">Forefinger</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=HT2bfL9HqU8">Little finger rest</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=B6ctTvukQog">The Statue of Liberty</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=5vSbW6kcNhE">Hand-riding bird</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=0htG4y4c_rU">Momotaro's hand-riding bird</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=HPkcw3jPHBA">Fingertip</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=HPkcw3jPHBA">Fingertip</a></td></tr> <br>
     
+    <tr><td><b>Landings</b></td></tr>
     
+    <tr><td><a href="https://www.youtube.com/watch?v=5V5SWkoAXFc">Palm</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=ynRVBY-tzTQ">Arm rest</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=xYTlAOWgSdE">Step on</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=sZ95NlpY_yc">Head on</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=QbYsa9pIp00">Shoulder</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=ZdotuB0JdPw">Kuma River descent</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=20fmpzxSngE">Top bird</a></td></tr> <br>
+    
+    <tr><td><b>String tricks</b></td></tr>
+    
+    <tr><td><a href="https://www.youtube.com/watch?v=5V5SWkoAXFc">Palm</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=ynRVBY-tzTQ">Arm rest</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=xYTlAOWgSdE">Step on</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=sZ95NlpY_yc">Head on</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=QbYsa9pIp00">Shoulder</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=ZdotuB0JdPw">Kuma River descent</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=20fmpzxSngE">Top bird</a></td></tr> <br>
 
 	</tbody>
 
