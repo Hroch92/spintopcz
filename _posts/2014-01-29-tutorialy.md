@@ -143,7 +143,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 
 
-<p>Další triky najdete na <a href="https://www.scienceofspin.com/spin-top-tips---videos.html">Spintastics</a> stránkách:</p>
+<p>Další triky najdete na <a href="https://www.scienceofspin.com/spin-top-tips---videos.html"><b>Spintastics</b></a> stránkách:</p>
 
 
 
@@ -493,7 +493,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 
 
-<p>Několik triků zpracoval i Jorge Alcoz na jeho <a href="//ta0.com/tricks/tricks.html">webu</a>, některé triky jsou i s podrobným popisem a historií:</p>
+<p>Několik triků zpracoval i <b>Jorge Alcoz</b> na jeho <a href="//ta0.com/tricks/tricks.html">webu</a>, některé triky jsou i s podrobným popisem a historií:</p>
 
 
 
@@ -1321,9 +1321,7 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 </table>
 
 <p>Japonskou specialitou je káča nazývaná Chonkake goma. I s ní lze dělat spousta triků (názvy přeložené s pomocí překladače):</p>
-
-
-
+        
 <table border="0" cellpadding="1" cellspacing="1" style="width:500px">
 
 	<tbody>
@@ -1357,13 +1355,27 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
     
     <tr><td><b>String tricks</b></td></tr>
     
-    <tr><td><a href="https://www.youtube.com/watch?v=5V5SWkoAXFc">Palm</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=ynRVBY-tzTQ">Arm rest</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=xYTlAOWgSdE">Step on</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=sZ95NlpY_yc">Head on</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=QbYsa9pIp00">Shoulder</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=ZdotuB0JdPw">Kuma River descent</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=20fmpzxSngE">Top bird</a></td></tr> <br>
+    <tr><td><a href="https://www.youtube.com/watch?v=lrQFVA5vD-Y">Aoi Valley Crossing</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=_yQViXVsuhw">Climbing the waterfall</a> (<a href="https://www.youtube.com/watch?v=4NauYGTd6PE">second version</a>)</td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=eM7OSh78GHk">Ayatori</a> (<a href="https://www.youtube.com/watch?v=-S6Yb8NUmmI">second version</a>)</td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=eBvcylmh2bY">Flying squirrel</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=6ZEb01cD3Eg">Valleywalk and waterfall climbing</a></td></tr><br>
+
+    <tr><td><b>Overhead tricks</b></td></tr>
+    
+    <tr><td><a href="https://www.youtube.com/watch?v=U6IbMbbTTZ4">Raised cloud sparrow</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=RudvnNN5LA4">Overhead rotation</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=s7yLNEco-nM">Swallow</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=P--oTNCu3-s">Warrior return</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=_cuwIm_OxSU">Overhead rotating arm</a></td></tr> <br>
+    
+    <tr><td><b>Special tricks</b></td></tr>
+    
+    <tr><td><a href="https://www.youtube.com/watch?v=B8ONXaUA3Jo">Spacewalk</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=iUFt3VT4-MQ">Skipping rope</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=Hm2nPF4rB_Q">Tornado</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=yoelWEo8Cog">UFO</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=mG42nP42-sY">Skipping rope variation</a></td></tr> <br>
 
 	</tbody>
 
