@@ -1326,24 +1326,24 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
 
 	<tbody>
 
-		<tr><td><b>Základy</b></td></tr>
+		<tr><td><b>Základy</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=qqor6IXJ8d0">Roztočení</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=MiwlY-C_If0">Roller Coaster</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=1rCKUVoPkX4">Under the leg, Behind the back</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=dRX8S_hg2og">Palm drop</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=1bBaFRMNgVs">Look back</a></td></tr><br>
+    <tr><td><a href="https://www.youtube.com/watch?v=1bBaFRMNgVs">Look back</a></td></tr>
     
-    <tr><td><b>Finger tricks</b></td></tr>
+    <tr><td><b>Finger tricks</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=gFMSuPLz8ns">Forefinger</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=HT2bfL9HqU8">Little finger rest</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=B6ctTvukQog">The Statue of Liberty</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=5vSbW6kcNhE">Hand-riding bird</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=0htG4y4c_rU">Momotaro's hand-riding bird</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=HPkcw3jPHBA">Fingertip</a></td></tr> <br>
+    <tr><td><a href="https://www.youtube.com/watch?v=HPkcw3jPHBA">Fingertip</a></td></tr> 
     
-    <tr><td><b>Landings</b></td></tr>
+    <tr><td><b>Landings</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=5V5SWkoAXFc">Palm</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=ynRVBY-tzTQ">Arm rest</a></td></tr>
@@ -1351,31 +1351,43 @@ Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny
     <tr><td><a href="https://www.youtube.com/watch?v=sZ95NlpY_yc">Head on</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=QbYsa9pIp00">Shoulder</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=ZdotuB0JdPw">Kuma River descent</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=20fmpzxSngE">Top bird</a></td></tr> <br>
+    <tr><td><a href="https://www.youtube.com/watch?v=20fmpzxSngE">Top bird</a></td></tr> 
     
-    <tr><td><b>String tricks</b></td></tr>
+    <tr><td><b>String tricks</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=lrQFVA5vD-Y">Aoi Valley Crossing</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=_yQViXVsuhw">Climbing the waterfall</a> (<a href="https://www.youtube.com/watch?v=4NauYGTd6PE">second version</a>)</td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=eM7OSh78GHk">Ayatori</a> (<a href="https://www.youtube.com/watch?v=-S6Yb8NUmmI">second version</a>)</td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=eBvcylmh2bY">Flying squirrel</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=6ZEb01cD3Eg">Valleywalk and waterfall climbing</a></td></tr><br>
+    <tr><td><a href="https://www.youtube.com/watch?v=6ZEb01cD3Eg">Valleywalk and waterfall climbing</a></td></tr>
 
-    <tr><td><b>Overhead tricks</b></td></tr>
+    <tr><td><b>Overhead tricks</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=U6IbMbbTTZ4">Raised cloud sparrow</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=RudvnNN5LA4">Overhead rotation</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=s7yLNEco-nM">Swallow</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=P--oTNCu3-s">Warrior return</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=_cuwIm_OxSU">Overhead rotating arm</a></td></tr> <br>
+    <tr><td><a href="https://www.youtube.com/watch?v=_cuwIm_OxSU">Overhead rotating arm</a></td></tr> 
     
-    <tr><td><b>Special tricks</b></td></tr>
+    <tr><td><b>Special tricks</b></td><tr></tr></tr>
     
     <tr><td><a href="https://www.youtube.com/watch?v=B8ONXaUA3Jo">Spacewalk</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=iUFt3VT4-MQ">Skipping rope</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=Hm2nPF4rB_Q">Tornado</a></td></tr>
     <tr><td><a href="https://www.youtube.com/watch?v=yoelWEo8Cog">UFO</a></td></tr>
-    <tr><td><a href="https://www.youtube.com/watch?v=mG42nP42-sY">Skipping rope variation</a></td></tr> <br>
+    <tr><td><a href="https://www.youtube.com/watch?v=mG42nP42-sY">Skipping rope variation</a></td></tr> 
+    
+    <tr><td><b>Throwing the top</b></td><tr></tr></tr>
+    
+    <tr><td><a href="https://www.youtube.com/watch?v=DDIqAWYQHBI">Finger throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=HoZAOFx4gq8">String throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=vVVaET0I6Og">Palm throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=kR-ar7naEp8">Throw back</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=JzygMeYLuKA">Leg combination throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=ntjkgpuYxuY">Behind the back throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=RTlcyFPVDQ0">Fast throw</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=k607i1kOVsc">Passing series 1</a></td></tr>
+    <tr><td><a href="https://www.youtube.com/watch?v=nIneuR6AegQ">Passing series 2</a></td></tr>
 
 	</tbody>
 
