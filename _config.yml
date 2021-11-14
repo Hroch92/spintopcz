@@ -12,6 +12,9 @@ excerpt_separator: <!--more-->
 
 url: //spintop.cz
 
+# Google Analytics
+google_analytics: UA-48587462-1
+
 # draw your top menu here
 # each item must have a title and a url.
 #   To list post categories. use type: 'categories'
