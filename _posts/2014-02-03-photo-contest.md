@@ -2,7 +2,7 @@
 categories: []
 layout: page
 title: Photo contest
-created: 1391429907
+created: 1636904724
 ---
 <p>Photo contest pořádá každým rokem Jorge Alcoz (ta0) na <a href="http://www.ta0.com/forum/index.php">itopspin.com fóru</a>. Soutěž začíná prvním příspěvkem se zajímavou fotkou se spintop tématem. Postupně jednotliví káčeři nebo ta0 samotný přidávají fotky do topicu pro tuto soutěž. Na konci roku ta0 uspořádá anketu s kvalifikačním a poté finálním kolem, kde vyhrává fotka s nejvyšším počtem hlasů.</p>
 
