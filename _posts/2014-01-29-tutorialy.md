@@ -2,7 +2,7 @@
 categories: []
 layout: page
 title: Tutoriály
-created: 1390979644
+created: 1636904724
 published: true
 ---
 Vlastní tutoriály na triky s káčou teprve připravujeme, ale kluci ze slusny.net mají pár základních triků natočených, takže <a href="http://www.youtube.com/playlist?list=PLjsnPtQYJ32-B8_Co25-TANusuCUxjooI">tady</a> jsou.
