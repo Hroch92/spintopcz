@@ -64,12 +64,14 @@ owner:
 
 # Social networking links used in author block underneath posts. Update and remove as you like.
 social:
-#  - title: "github"
-#    url: "https://github.com/aron-bordin"
-#  - title: "linkedin"
-#    url: "https://br.linkedin.com/in/aronbordin"
   - title: "youtube"
     url: "https://www.youtube.com/channel/UCIwuVwZS1M54a4xwBsUCwDw"
+  - title: "facebook"
+    url: "https://www.facebook.com/spintopcz"
+  - title: "twitter"
+    url: "https://twitter.com/spintopcz"
+  - title: "instagram"
+    url: "https://www.instagram.com/spintopcz/"
 
 # Background image to be tiled on all pages
 background: 
