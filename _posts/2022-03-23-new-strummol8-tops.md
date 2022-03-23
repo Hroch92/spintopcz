@@ -12,7 +12,7 @@ Unboxing:
 <p><div class="youtube-player" data-id="oLArObibx4U"></div></p>
 
 Pár triků s Augustou od Kanty:
-<div style="max-width: 500px;"><div class="instagram-wrapper"><iframe src="https://instagram.com/p/CY8wMxfJh9i/embed/" scrolling="no" frameborder="0"></iframe></div></div>
+<div style="height: 600px; width: 500px;"><iframe src="https://instagram.com/p/CY8wMxfJh9i/embed/" scrolling="no" frameborder="0"></iframe></div>
 
 [Recenze](http://www.ta0.com/forum/index.php/topic,6647.msg74150.html#msg74150) od ta0.
 
