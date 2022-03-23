@@ -30,6 +30,4 @@ Videa prvních tří si můžete pustit na Youtube
 </tbody>
 </table>
 
-Playlist se všemi 20 finalisty je zde - https://www.youtube.com/playlist?list=PL4n71pzRVnZri3SdrtOzz53seai9F4LW_
-
-
+Playlist se všemi 20 finalisty je [zde](https://www.youtube.com/playlist?list=PL4n71pzRVnZri3SdrtOzz53seai9F4LW_).
