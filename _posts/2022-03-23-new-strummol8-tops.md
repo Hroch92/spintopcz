@@ -11,13 +11,10 @@ Káči mají netradiční jména Dionisia (nástupce Sofie), Augusta (nástupce 
 Unboxing:
 <p><div class="youtube-player" data-id="oLArObibx4U"></div></p>
 
-Pár triků s Augustou od Kanty:
-<div style="height: 600px; width: 500px;"><iframe src="https://instagram.com/p/CY8wMxfJh9i/embed/" scrolling="no" frameborder="0"></iframe></div>
+Pár triků s Augustou od Kanty na [instagramu](https://instagram.com/p/CY8wMxfJh9i/).
 
 [Recenze](http://www.ta0.com/forum/index.php/topic,6647.msg74150.html#msg74150) od ta0.
 
 Osobně mi přijde nejzajímavější Augusta, protože má nejvhodnější tvar na soutěže a triky obecně. Nemá hrany, kde by se mohl zasekávat string apod. Dionisia a Rosalinda jsou určitě zajímavé pro sběratele, případně na vymýšlení netradičních triků. 
 
 Koupit káči můžete přímo na [e-shopu výrobce](https://www.strummol8.com/shop/en/10-spinning-tops).
-
-
