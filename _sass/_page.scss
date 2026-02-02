@@ -718,17 +718,41 @@ ul.social-buttons li a:active {
         -webkit-filter: brightness(75%);
     }
     
-    .youtube-player .play {
-        height: 72px;
-        width: 72px;
-        left: 50%;
-        top: 50%;
-        margin-left: -36px;
-        margin-top: -36px;
-        position: absolute;
-        background: url("//i.imgur.com/TxzC70f.png") no-repeat;
-        cursor: pointer;
-    }
+//    .youtube-player .play {
+//        height: 72px;
+//        width: 72px;
+//        left: 50%;
+//        top: 50%;
+//        margin-left: -36px;
+//        margin-top: -36px;
+//        position: absolute;
+//        background: url("//i.imgur.com/TxzC70f.png") no-repeat;
+//        cursor: pointer;
+//    }
+
+.youtube-player .play {
+    height: 72px;
+    width: 72px;
+    left: 50%;
+    top: 50%;
+    margin-left: -36px;
+    margin-top: -36px;
+    position: absolute;
+    cursor: pointer;
+    
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgba(255, 0, 0, 0.8); /* Volitelné červené pozadí */
+    border-radius: 50%; /* Volitelný kruhový tvar */
+}
+
+.youtube-player .play::before {
+    content: "play_arrow"; /* nebo "play_circle_filled" pro verzi s kruhem */
+    font-family: "Material Icons";
+    font-size: 48px;
+    color: #fff;
+}
     
 //Toggle blocks with CSS
 
